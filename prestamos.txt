@@ -1,2 +1,5 @@
 prestamos 1
+prestamos 2
+prestamos 3
+
 
